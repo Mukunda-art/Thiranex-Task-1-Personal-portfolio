@@ -1,1 +1,0 @@
-SCRIPT        console.log("Script is working!");
